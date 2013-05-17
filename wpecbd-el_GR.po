@@ -30,33 +30,33 @@ msgstr "Εισαγωγή από CSV αρχείο"
 #: inc/tools/csv_import.php:46
 #@ wpecbd
 msgid "Step 1 - Upload"
-msgstr ""
+msgstr "Βήμα 1ο - Upload"
 
 #: inc/tools/csv_import.php:47
 #@ wpecbd
 msgid "Step 2 - Preparation"
-msgstr ""
+msgstr "Βήμα 2ο - Προετοιμασία"
 
 #: inc/tools/csv_import.php:48
 #@ wpecbd
 msgid "Step 3 - Last Controls"
-msgstr ""
+msgstr "Βήμα 3ο - Τελευταίος έλεγχος"
 
 #: inc/tools/csv_import.php:49
 #@ wpecbd
 msgid "Step 4 - Process"
-msgstr ""
+msgstr "Βήμα 4ο - Εκτέλεση"
 
 #: inc/tools/csv_import.php:90
 #@ wpecbd
 msgid "Please Select a File or Upload"
-msgstr ""
+msgstr "Παρακαλώ επιλέξτε αρχείο για να ανεβάσετε"
 
 #: inc/tools/csv_import.php:100
 #: inc/tools/csv_import.php:173
 #@ wpecbd
 msgid "No files found!"
-msgstr ""
+msgstr "Δεν βρέθηκαν αρχεία"
 
 #: inc/tools/csv_import.php:111
 #@ wpecbd

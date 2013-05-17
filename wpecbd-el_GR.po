@@ -401,23 +401,23 @@ msgstr "Παρακαλώ επιλέξτε τουλάχιστον %d αντικε
 #, php-format
 #@ wpecbd
 msgid "[%s] New Company"
-msgstr ""
+msgstr "[%s] Νέα καταχώρηση"
 
 #: inc/userCompany.php:407
 #@ wpecbd
 msgid "Save Company"
-msgstr ""
+msgstr "Απόθηκευση καταχώρησης"
 
 #: inc/userCompany.php:407
 #: wp-business-directory.php:282
 #@ wpecbd
 msgid "Add New Company"
-msgstr ""
+msgstr "Προσθήκη νέας καταχώρησης"
 
 #: inc/userCompany.php:432
 #@ wpecbd
 msgid "There are some errors in the form."
-msgstr ""
+msgstr "Υπάρχουν κάποια λάθη στη φόρμα καταχώρησης"
 
 #: inc/userCompany.php:436
 #, php-format
@@ -428,55 +428,55 @@ msgstr ""
 #: inc/userCompany.php:438
 #@ wpecbd
 msgid "Company successfully saved!"
-msgstr ""
+msgstr "Η καταχώρηση αποθηκεύτηκε επιτυχώς"
 
 #: inc/userCompany.php:475
 #@ wpecbd
 msgid "Enter Tags"
-msgstr ""
+msgstr "Εισάγετε ετικέτες"
 
 #: inc/userCompany.php:564
 #@ wpecbd
 msgid "You have to select at least one category"
-msgstr ""
+msgstr "Πρέπει να επιλέξετε τουλάχιστον μία κατηγορία"
 
 #: inc/userCompany.php:570
 #: inc/views/search_popup.php:52
 #@ wpecbd
 msgid "Select Categories"
-msgstr ""
+msgstr "Επίλεξτε κατηγορίες"
 
 #: inc/userCompany.php:619
 #: inc/views/admin_options_page.php:483
 #: inc/widgets.php:61
 #@ wpecbd
 msgid "Map"
-msgstr ""
+msgstr "Χάρτης"
 
 #: inc/userCompany.php:629
 #@ wpecbd
 msgid "Please enter your company twitter username"
-msgstr ""
+msgstr "Εισάγετε το όνομα χρήστη του twitter σας"
 
 #: inc/userCompany.php:634
 #@ wpecbd
 msgid "Please enter your company facebook url"
-msgstr ""
+msgstr "Παρακαλώ εισάγετε τον σύνδεσμο από το Facebook"
 
 #: inc/userCompany.php:635
 #@ wpecbd
 msgid "Please enter a valid facebook url"
-msgstr ""
+msgstr "Παρακαλώ εισάγετε ένα σωστό σύνδεσμο του Facebook"
 
 #: inc/userCompany.php:640
 #@ wpecbd
 msgid "Please enter your company googleplus url"
-msgstr ""
+msgstr "Παρακαλώ εισάγετε τον σύνδεσμο για το Googleplus"
 
 #: inc/userCompany.php:641
 #@ wpecbd
 msgid "Please enter a valid googleplus url"
-msgstr ""
+msgstr "Παρακαλώ εισάγετε ένα σωστό σύνδεσμο του Googleplus"
 
 #: inc/userCompany.php:646
 #@ wpecbd

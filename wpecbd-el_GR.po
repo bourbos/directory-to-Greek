@@ -1077,7 +1077,7 @@ msgstr ""
 #: wp-business-directory.php:1049
 #@ wpecbd
 msgid "Search"
-msgstr ""
+msgstr "Αναζήτηση"
 
 #: inc/views/admin_options_page.php:326
 #@ wpecbd
@@ -1414,97 +1414,97 @@ msgstr ""
 #: inc/views/search_popup.php:29
 #@ wpecbd
 msgid "Unable to find your location"
-msgstr ""
+msgstr "Δε μπορέσαμε να βρούμε την τοποθεσία σας"
 
 #: inc/views/search_popup.php:30
 #@ wpecbd
 msgid "Permission denied in finding your location"
-msgstr ""
+msgstr "Δεν είναι επιτρεπτό να βρούμε την τοποθεσία σας"
 
 #: inc/views/search_popup.php:31
 #@ wpecbd
 msgid "Your location is currently unknown"
-msgstr ""
+msgstr "Η τοποθεσία σας είναι άγνωστη"
 
 #: inc/views/search_popup.php:32
 #@ wpecbd
 msgid "Attempt to find location took too long"
-msgstr ""
+msgstr "Η προσπάθεια για να βρούμε την τοποθεσία σας ξεπέρασε το χρονικό όριο"
 
 #: inc/views/search_popup.php:33
 #@ wpecbd
 msgid "Location detection not supported in browser"
-msgstr ""
+msgstr "Η εύρεση τοποθεσίας δεν υποστηρίζετε στον περιηγητή"
 
 #: inc/views/search_popup.php:34
 #@ wpecbd
 msgid "Detecting your location... Please Wait..."
-msgstr ""
+msgstr "Εύρεση της τοποθεσίας σας ... Παρακαλώ περιμένετε ..."
 
 #: inc/views/search_popup.php:35
 #@ wpecbd
 msgid "Your location is successfully obtained!"
-msgstr ""
+msgstr "Η τοποθεσία σας βρέθηκε επιτυχώς"
 
 #: inc/views/search_popup.php:38
 #@ wpecbd
 msgid "You Are Here!"
-msgstr ""
+msgstr "Είστε εδώ"
 
 #: inc/views/search_popup.php:39
 #@ wpecbd
 msgid "More Info"
-msgstr ""
+msgstr "Περισσότερες πληροφορίες"
 
 #: inc/views/search_popup.php:40
 #@ wpecbd
 msgid "Get Direction"
-msgstr ""
+msgstr "Λήψη οδηγιών"
 
 #: inc/views/search_popup.php:41
 #@ wpecbd
 msgid "Visit Company Page"
-msgstr ""
+msgstr "Επισκεφθείτε την σελίδα της εταιρίας"
 
 #: inc/views/search_popup.php:44
 #@ wpecbd
 msgid "Searching please wait..."
-msgstr ""
+msgstr "Γίνεται αναζήτηση παρακαλώ περιμένετε ..."
 
 #: inc/views/search_popup.php:45
 #@ wpecbd
 msgid "Something unexpected has happened... Search Error!"
-msgstr ""
+msgstr "Κάτι απροσδόκητο συνέβη ... σφάλμα αναζήτησης !"
 
 #: inc/views/search_popup.php:46
 #@ wpecbd
 msgid "Sorry! No companies found."
-msgstr ""
+msgstr "Λυπόμαστε ! Δεν βρέθηκαν καταχωρήσεις."
 
 #: inc/views/search_popup.php:47
 #@ wpecbd
 msgid "# Companies found!"
-msgstr ""
+msgstr "# καταχωρήσεις βρέθηκαν"
 
 #: inc/views/search_popup.php:48
 #@ wpecbd
 msgid "1 Company found!"
-msgstr ""
+msgstr "1 καταχώρηση βρέθηκε"
 
 #: inc/views/search_popup.php:49
 #@ wpecbd
 msgid "Search terms must be at least 3 characters or you must select at least one category."
-msgstr ""
+msgstr "Η λέξη - φράση αναζήτησης πρέπει να είναι τουλάχιστον 3 χαρακτήρες ή πρέπει να επιλέξετε τουλάχιστον μία κατηγορία. "
 
 #: inc/views/search_popup.php:53
 #@ wpecbd
 msgid "# selected"
-msgstr ""
+msgstr "# επιλέχθηκαν"
 
 #: inc/views/search_popup.php:56
 #@ wpecbd
 msgid "Something unexpected has happened... Directions Error!"
-msgstr ""
+msgstr "Κάτι απροσδόκητο συνέβη ... σφάλμα στις οδηγίες!"
 
 #: inc/views/search_popup.php:86
 #: inc/widgets.php:201
@@ -1512,70 +1512,70 @@ msgstr ""
 #@ wpecbd
 #@ default
 msgid "Select Category"
-msgstr ""
+msgstr "Επιλογή κατηγορίας"
 
 #: inc/views/search_popup.php:120
 #: inc/views/search_popup.php:122
 #@ wpecbd
 msgid "Close Direction Panel"
-msgstr ""
+msgstr "Κλείστε το παράθυρο οδηγιών"
 
 #: inc/views/search_popup.php:125
 #@ wpecbd
 msgid "Search Results"
-msgstr ""
+msgstr "Αποτελέσματα αναζήτησης"
 
 #: inc/views/search_popup.php:131
 #@ wpecbd
 msgid "Open Search Box"
-msgstr ""
+msgstr "Άνοιγμα παράθυρου αναζήτησης"
 
 #: inc/views/search_popup.php:135
 #@ wpecbd
 msgid "Radius Distance"
-msgstr ""
+msgstr "Ακτίνα αναζήτησης"
 
 #: inc/views/search_popup.php:140
 #@ default
 msgid "term"
-msgstr ""
+msgstr "όρος"
 
 #: inc/views/search_popup.php:140
 #: inc/widgets.php:152
 #@ wpecbd
 msgid "Search Term"
-msgstr ""
+msgstr "Όρος αναζήτησης"
 
 #: inc/views/search_popup.php:145
 #@ default
 msgid "address"
-msgstr ""
+msgstr "διεύθυνση"
 
 #: inc/views/search_popup.php:145
 #: inc/widgets.php:256
 #@ wpecbd
 msgid "Enter a location"
-msgstr ""
+msgstr "Εισαγωγή τοποθεσίας"
 
 #: inc/views/search_popup.php:149
 #@ default
 msgid "lat"
-msgstr ""
+msgstr "πλάτος"
 
 #: inc/views/search_popup.php:150
 #@ default
 msgid "lng"
-msgstr ""
+msgstr "μήκος"
 
 #: inc/views/search_popup.php:158
 #@ wpecbd
 msgid "Close Search Box"
-msgstr ""
+msgstr "Κλείσιμο παραθύρου αναζήτησης"
 
 #: inc/widgets.php:32
 #@ wpecbd
 msgid "Company Search"
-msgstr ""
+msgstr "Αναζήτηση"
 
 #: inc/widgets.php:33
 #@ wpecbd
@@ -1585,7 +1585,7 @@ msgstr ""
 #: inc/widgets.php:41
 #@ wpecbd
 msgid "Title"
-msgstr ""
+msgstr "Τίτλος"
 
 #: inc/widgets.php:47
 #@ wpecbd

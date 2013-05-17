@@ -61,22 +61,22 @@ msgstr "Δεν βρέθηκαν αρχεία"
 #: inc/tools/csv_import.php:111
 #@ wpecbd
 msgid "Let's Start"
-msgstr ""
+msgstr "Ας αρχίσουμε"
 
 #: inc/tools/csv_import.php:126
 #@ wpecbd
 msgid "CSV Files"
-msgstr ""
+msgstr "Αρχεία CSV"
 
 #: inc/tools/csv_import.php:184
 #@ wpecbd
 msgid "Please select a file..."
-msgstr ""
+msgstr "Παρακαλώ επιλέξτε αρχείο"
 
 #: inc/tools/csv_import.php:224
 #@ wpecbd
 msgid "Check the table below, if the table displaying not properly, change the options (delimiter,enclosure) according to your file and try again...<br /> If everything is normal, set your columns and click Ready!"
-msgstr ""
+msgstr "Check the table below, if the table displaying not properly, change the options (delimiter,enclosure) according to your file and try again...<br /> If everything is normal, set your columns and click Ready!"
 
 #: inc/tools/csv_import.php:263
 #: inc/tools/csv_import.php:367
@@ -86,17 +86,17 @@ msgstr ""
 #@ wpecbd
 #@ default
 msgid "Options"
-msgstr ""
+msgstr "Επιλογές"
 
 #: inc/tools/csv_import.php:264
 #@ wpecbd
 msgid "Values"
-msgstr ""
+msgstr "Τιμές"
 
 #: inc/tools/csv_import.php:265
 #@ wpecbd
 msgid "Description"
-msgstr ""
+msgstr "Περιγραφή"
 
 #: inc/tools/csv_import.php:269
 #@ wpecbd
@@ -245,7 +245,7 @@ msgstr ""
 #: inc/widgets.php:572
 #@ wpecbd
 msgid "Name"
-msgstr ""
+msgstr "Όνομα"
 
 #: inc/tools/csv_import.php:1082
 #@ wpecbd
@@ -261,13 +261,13 @@ msgstr ""
 #: inc/views/admin_options_page.php:537
 #@ wpecbd
 msgid "Short Description"
-msgstr ""
+msgstr "Σύντομη περιγραφή"
 
 #: inc/tools/csv_import.php:1085
 #: inc/views/admin_options_page.php:546
 #@ wpecbd
 msgid "Long Description"
-msgstr ""
+msgstr "Μεγάλη περιγραφή"
 
 #: inc/tools/csv_import.php:1086
 #: inc/userCompany.php:937
@@ -288,12 +288,12 @@ msgstr "Τ.Κ."
 #: inc/tools/csv_import.php:1091
 #@ wpecbd
 msgid "Latitude"
-msgstr ""
+msgstr "γεωγραφικό πλάτος"
 
 #: inc/tools/csv_import.php:1092
 #@ wpecbd
 msgid "Longitude"
-msgstr ""
+msgstr "γεωγραφικό μήκος"
 
 #: inc/tools/csv_import.php:1093
 #: inc/views/admin_options_page.php:555
@@ -330,72 +330,72 @@ msgstr "e-mail"
 #: inc/tools/csv_import.php:1097
 #@ wpecbd
 msgid "Logo Url"
-msgstr ""
+msgstr "Logo Url"
 
 #: inc/tools/csv_import.php:1098
 #@ wpecbd
 msgid "Image Url"
-msgstr ""
+msgstr "Image Url"
 
 #: inc/tools/csv_import.php:1099
 #: inc/views/admin_options_page.php:591
 #@ wpecbd
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: inc/tools/csv_import.php:1100
 #: inc/views/admin_options_page.php:600
 #@ wpecbd
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: inc/tools/csv_import.php:1101
 #: inc/views/admin_options_page.php:609
 #@ wpecbd
 msgid "GooglePlus"
-msgstr ""
+msgstr "GooglePlus"
 
 #: inc/tools/csv_import.php:1102
 #: inc/views/admin_options_page.php:618
 #@ wpecbd
 msgid "LinkedIn"
-msgstr ""
+msgstr "LinkedIn"
 
 #: inc/tools/csv_import.php:1103
 #: inc/views/admin_options_page.php:627
 #@ wpecbd
 msgid "Rss"
-msgstr ""
+msgstr "Rss"
 
 #: inc/tools/csv_import.php:1104
 #: inc/views/admin_options_page.php:636
 #@ wpecbd
 msgid "Skype"
-msgstr ""
+msgstr "Skype"
 
 #: inc/userCompany.php:120
 #, php-format
 #@ wpecbd
 msgid "Please enter no more than %d characters."
-msgstr ""
+msgstr "Παρακαλώ γράψτε το πολύ %d χαρακτήρες."
 
 #: inc/userCompany.php:125
 #, php-format
 #@ wpecbd
 msgid "Please enter at least %d characters."
-msgstr ""
+msgstr "Παρακαλώ γράψτε τουλάχιστον %d χαρακτήρες."
 
 #: inc/userCompany.php:145
 #, php-format
 #@ wpecbd
 msgid "Please select no more than %d object."
-msgstr ""
+msgstr "Παρακαλώ επιλέξτε το πολύ %d αντικείμενα"
 
 #: inc/userCompany.php:150
 #, php-format
 #@ wpecbd
 msgid "Please select at least %d object."
-msgstr ""
+msgstr "Παρακαλώ επιλέξτε τουλάχιστον %d αντικείμενα."
 
 #: inc/userCompany.php:317
 #, php-format

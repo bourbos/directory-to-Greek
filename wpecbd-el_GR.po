@@ -25,7 +25,7 @@ msgstr ""
 #: wp-business-directory.php:1214
 #@ wpecbd
 msgid "WP Business Directory - CSV Company Importer"
-msgstr ""
+msgstr "Εισαγωγή από CSV αρχείο"
 
 #: inc/tools/csv_import.php:46
 #@ wpecbd

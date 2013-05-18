@@ -1840,42 +1840,42 @@ msgstr ""
 #: wp-business-directory.php:279
 #@ wpecbd
 msgid "Companies"
-msgstr ""
+msgstr "Εταιρίες"
 
 #: wp-business-directory.php:281
 #@ wpecbd
 msgid "Add New"
-msgstr ""
+msgstr "Προσθήκη νέας"
 
 #: wp-business-directory.php:283
 #@ wpecbd
 msgid "Edit Company"
-msgstr ""
+msgstr "Επεξεργασία"
 
 #: wp-business-directory.php:284
 #@ wpecbd
 msgid "New Company"
-msgstr ""
+msgstr "Νέα εταιρία - καταχώρηση"
 
 #: wp-business-directory.php:285
 #@ wpecbd
 msgid "All Companies"
-msgstr ""
+msgstr "Όλες οι εταιρίες - καταχωρήσεις"
 
 #: wp-business-directory.php:286
 #@ wpecbd
 msgid "View Company"
-msgstr ""
+msgstr "Προβολή εταιρίας - καταχώρησης"
 
 #: wp-business-directory.php:287
 #@ wpecbd
 msgid "Search Companies"
-msgstr ""
+msgstr "Αναζήτηση εταιρίας - καταχώρησης"
 
 #: wp-business-directory.php:288
 #@ wpecbd
 msgid "No companies found"
-msgstr ""
+msgstr "Δεν βρέθηκε κάτι"
 
 #: wp-business-directory.php:289
 #@ wpecbd
@@ -1890,136 +1890,136 @@ msgstr ""
 #: wp-business-directory.php:321
 #@ wpecbd
 msgid "Search Categories"
-msgstr ""
+msgstr "Αναζήτηση κατηγορίας"
 
 #: wp-business-directory.php:322
 #@ wpecbd
 msgid "All Categories"
-msgstr ""
+msgstr "Όλες οι κατηγορίες"
 
 #: wp-business-directory.php:323
 #@ wpecbd
 msgid "Parent Category"
-msgstr ""
+msgstr "Γονική κατηγορία"
 
 #: wp-business-directory.php:324
 #@ wpecbd
 msgid "Parent Category:"
-msgstr ""
+msgstr "Γονική κατηγορία:"
 
 #: wp-business-directory.php:325
 #@ wpecbd
 msgid "Edit Category"
-msgstr ""
+msgstr "Επεξεργασία κατηγορίας"
 
 #: wp-business-directory.php:326
 #@ wpecbd
 msgid "Update Category"
-msgstr ""
+msgstr "Ανανέωση κατηγορίας"
 
 #: wp-business-directory.php:327
 #@ wpecbd
 msgid "Add New Category"
-msgstr ""
+msgstr "Προσθήκη νέας κατηγορίας"
 
 #: wp-business-directory.php:328
 #@ wpecbd
 msgid "New Category Name"
-msgstr ""
+msgstr "Όνομα νέας κατηγορίας"
 
 #: wp-business-directory.php:350
 #@ wpecbd
 msgid "Search Tags"
-msgstr ""
+msgstr "ετικέτες αναζήτησης"
 
 #: wp-business-directory.php:351
 #@ wpecbd
 msgid "Popular Tags"
-msgstr ""
+msgstr "Δημοφιλείς ετικέτες"
 
 #: wp-business-directory.php:352
 #@ wpecbd
 msgid "All Tags"
-msgstr ""
+msgstr "Όλες οι ετικέτες"
 
 #: wp-business-directory.php:355
 #@ wpecbd
 msgid "Edit Tag"
-msgstr ""
+msgstr "Επεξεργασία ετικέτας"
 
 #: wp-business-directory.php:356
 #@ wpecbd
 msgid "Update Tag"
-msgstr ""
+msgstr "Ανανέωση ετικέτας"
 
 #: wp-business-directory.php:357
 #@ wpecbd
 msgid "Add New Tag"
-msgstr ""
+msgstr "Προσθήκη νέας ετικέτας"
 
 #: wp-business-directory.php:358
 #@ wpecbd
 msgid "New Tag Name"
-msgstr ""
+msgstr "Όνομα νέας ετικέτας"
 
 #: wp-business-directory.php:359
 #@ wpecbd
 msgid "Separate tags with commas"
-msgstr ""
+msgstr "Διαχωρίστε τις ετικέτες με κόμμα"
 
 #: wp-business-directory.php:360
 #@ wpecbd
 msgid "Add or remove tags"
-msgstr ""
+msgstr "Προσθήκη ή αφαίρεση ετικετών"
 
 #: wp-business-directory.php:361
 #@ wpecbd
 msgid "Choose from the most used tags"
-msgstr ""
+msgstr "Επιλέξτε από τις πιο συχνές ετικέτες"
 
 #: wp-business-directory.php:732
 #@ wpecbd
 msgctxt "metabox_company_images"
 msgid "Images"
-msgstr ""
+msgstr "Εικόνες"
 
 #: wp-business-directory.php:736
 #@ wpecbd
 msgctxt "metabox_company_social"
 msgid "Social"
-msgstr ""
+msgstr "Κοινωνικά"
 
 #: wp-business-directory.php:740
 #@ wpecbd
 msgctxt "metabox_company_premiumend"
 msgid "Premium End"
-msgstr ""
+msgstr "Τέλος προνομιούχου"
 
 #: wp-business-directory.php:743
 #@ wpecbd
 msgctxt "metabox_company_information"
 msgid "Information"
-msgstr ""
+msgstr "Πληροφορίες"
 
 #: wp-business-directory.php:1051
 #@ wpecbd
 msgid "You can drag and drop the marker to the correct location."
-msgstr ""
+msgstr "Μπορείτε να επιλέξετε και να σύρετε τον δρομέα στο σωστό σημείο."
 
 #: wp-business-directory.php:1090
 #@ default
 msgid "Premium Status:"
-msgstr ""
+msgstr "Κατάσταση Προνομιούχου:"
 
 #: wp-business-directory.php:1093
 #@ wpecbd
 msgid "To make this company premium, you need to set a future date..."
-msgstr ""
+msgstr "Να να ορίσετε την εταιρία - καταχώρηση ως προνομιούχα πρέπει να ορίσετε μελλοντική ημερομηνία ..."
 
 #: wp-business-directory.php:1125
 #@ wpecbd
 msgid "Error! You can not edit this post!"
-msgstr ""
+msgstr "Σφάλμα ! Δεν μπορείτε να επεξεργαστείτε αυτή την καταχώρηση !"
 
 #: wp-business-directory.php:1214
 #@ wpecbd
@@ -2039,13 +2039,13 @@ msgstr ""
 #: wp-business-directory.php:1408
 #@ default
 msgid "No categories"
-msgstr ""
+msgstr "Δεν υπάρχουν κατηγορίες"
 
 #: wp-business-directory.php:2176
 #, php-format
 #@ default
 msgid "View all posts in %s"
-msgstr ""
+msgstr "Δείτε όλες τις καταχωρήσεις στο %s"
 
 #. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
 #: wp-business-directory.php:2191
@@ -2053,55 +2053,55 @@ msgstr ""
 #@ wpecbd
 msgid "Company"
 msgid_plural "Companies"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Εταιρία - καταχώρηση"
+msgstr[1] "Εταιρίες - καταχωρήσεις"
 
 #: wp-business-directory.php:2198
 #@ wpecbd
 msgid "Pending Company"
 msgid_plural "Pending Companies"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Εκκρεμής εταιρία - καταχώρηση"
+msgstr[1] "Εκκρεμείς εταιρίες - καταχωρήσεις"
 
 #: wp-business-directory.php:2256
 #@ wpecbd
 msgid "Prem. End"
-msgstr ""
+msgstr "Τέλος προνομιούχου"
 
 #: wp-business-directory.php:2356
 #, php-format
 #@ default
 msgid "New user registration on your site %s:"
-msgstr ""
+msgstr "Νέα εγγραφή χρήστη στο site %s :"
 
 #: wp-business-directory.php:2357
 #: wp-business-directory.php:2369
 #, php-format
 #@ default
 msgid "Username: %s"
-msgstr ""
+msgstr "Όνομα χρήστη : %s"
 
 #: wp-business-directory.php:2358
 #, php-format
 #@ default
 msgid "E-mail: %s"
-msgstr ""
+msgstr "E-mail: %s"
 
 #: wp-business-directory.php:2360
 #, php-format
 #@ default
 msgid "[%s] New User Registration"
-msgstr ""
+msgstr "[%s] Νέα εγγραφή χρήστη"
 
 #: wp-business-directory.php:2370
 #, php-format
 #@ default
 msgid "Password: %s"
-msgstr ""
+msgstr "Κωδικός: %s"
 
 #: wp-business-directory.php:2372
 #, php-format
 #@ default
 msgid "[%s] Your username and password"
-msgstr ""
+msgstr "[%s] Το όνομα χρήστη και ο κωδικός σας"
 
